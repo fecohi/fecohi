@@ -5,6 +5,7 @@ on:
   schedule:
     # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -14,5 +15,6 @@ jobs:
         uses: pemtajo/badge-readme@2.4.0
         with:
           COMMIT_MESSAGE: "Updated with latest badges"
-          CREDLY_USER: ${{ secrets.CREDLY_USER }} 
+          CREDLY_USER: ${{ secrets.CREDLY_USER }}
           NUMBER_LAST_BADGES: 5
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
