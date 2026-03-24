@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:badges-->
 
 ### Hi there 👋
-I am Fernando Cortés Hierro, an AppDev Architect currently working at Microsoft. 
+I am Fernando Cortés Hierro, a Senior Manager AI & LLM Tech Advisor currently working at Accenture. 
 
 ## 💼 Skills
 
