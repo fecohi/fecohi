@@ -1,35 +1,37 @@
 # Hey, I'm Fernando 👋
 
-**Senior AI / Automation Builder · AI Platforms · Internal Tools · Technical Advisor**
+**Senior technologist · AI, automation & platform thinking · Remote-first**
 
-I’m a senior technologist with 25+ years of experience bridging business needs and technical delivery across software, cloud, and AI.
+I’m a technology leader with 25+ years of experience across software, cloud, AI and digital transformation.
 
-Today I focus on AI experimentation, automation, prototypes, internal tools, and practical platform thinking — especially in fully remote environments from Spain.
-
-I like roles where I can translate ambiguous needs into something useful, test ideas quickly, and turn them into working solutions without unnecessary corporate overhead.
-
-I’m not looking for pure pre-sales, heavy people management, or “PowerPoint-only” consulting.
+I like building things that help people work better: AI experiments, automations, prototypes, internal tools, and practical platform solutions. I’m especially interested in work that is hands-on, useful, and grounded in real business needs.
 
 [LinkedIn](https://www.linkedin.com/in/fernandocorteshierro)
 
 ## 🚀 What I Do
 
-- **AI Experimentation** → PoCs, MVPs, prototypes, and applied AI workflows.
-- **Automation** → Internal tools, workflow automation, and practical system improvements.
-- **Platform Thinking** → AI platforms, developer experience, and scalable technical foundations.
-- **Business-to-Technical Translation** → Turning business needs into clear technical options and decisions.
+- **AI & Automation** → Prototypes, workflows, internal tools, and practical applied AI.
+- **Platform Thinking** → Cloud, developer experience, and scalable technical foundations.
+- **Business-to-Technical Translation** → Turning ambiguous business goals into clear technical direction.
+- **Productive Experiments** → Testing ideas quickly, learning fast, and avoiding unnecessary theatre.
 
-## 🧠 What I’m Good At
+## 🧠 What I Enjoy
 
-- Translating ambiguous business goals into technical direction.
-- Building and validating early-stage solutions with speed and rigor.
-- Working across engineering, architecture, and product stakeholders.
-- Using AI to improve productivity, workflows, and decision-making.
-- Keeping things practical: less theatre, more outcomes.
+- Exploring new AI use cases and patterns.
+- Building useful systems with a practical mindset.
+- Connecting strategy with execution.
+- Working with teams that value clarity, autonomy and results.
+- Keeping the work real, simple and effective.
+
+## 🏆 What Defines My Background
+
+- 25+ years working across software, cloud, consulting and AI.
+- Experience in Microsoft, Accenture, SGS, JTI, Plain Concepts and more.
+- Strong mix of business understanding and technical depth.
+- Background in AI strategy, cloud architecture, platform modernization and developer experience.
 
 ## 🛠 Tech Stack
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,14 +40,6 @@ I’m not looking for pure pre-sales, heavy people management, or “PowerPoint-
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## 📌 Current Focus
-
-- AI-enabled internal tools
-- Automation and workflow design
-- LLMs, RAG, and agentic patterns
-- Prototyping without production burden
-- Remote-first collaboration from Spain
 
 ## 📜 Certifications
 
@@ -63,4 +57,4 @@ I’m not looking for pure pre-sales, heavy people management, or “PowerPoint-
 
 ---
 
-💼 Open to fully remote roles from Spain in AI, automation, internal tools, and platform-oriented technical roles.
+Building practical AI, automation and platform ideas with a remote-first mindset.
