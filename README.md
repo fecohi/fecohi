@@ -1,35 +1,66 @@
-<!--
-**fecohi/fecohi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Fernando 👋
 
-Here are some ideas to get you started:
+**Senior AI / Automation Builder · AI Platforms · Internal Tools · Technical Advisor**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a senior technologist with 25+ years of experience bridging business needs and technical delivery across software, cloud, and AI.
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+Today I focus on AI experimentation, automation, prototypes, internal tools, and practical platform thinking — especially in fully remote environments from Spain.
 
-### Hi there 👋
-I am Fernando Cortés Hierro, a Senior Manager AI & LLM Tech Advisor currently working at Accenture. 
+I like roles where I can translate ambiguous needs into something useful, test ideas quickly, and turn them into working solutions without unnecessary corporate overhead.
 
-## 💼 Skills
+I’m not looking for pure pre-sales, heavy people management, or “PowerPoint-only” consulting.
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=for-the-badge&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=for-the-badge&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/--019733?label=Vim&style=for-the-badge&logo=vim&logoColor=white)
-![](https://img.shields.io/badge/--5391FE?label=PowerShell&style=for-the-badge&logo=powershell&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/fernandocorteshierro)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fecohi)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=fecohi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 What I Do
+
+- **AI Experimentation** → PoCs, MVPs, prototypes, and applied AI workflows.
+- **Automation** → Internal tools, workflow automation, and practical system improvements.
+- **Platform Thinking** → AI platforms, developer experience, and scalable technical foundations.
+- **Business-to-Technical Translation** → Turning business needs into clear technical options and decisions.
+
+## 🧠 What I’m Good At
+
+- Translating ambiguous business goals into technical direction.
+- Building and validating early-stage solutions with speed and rigor.
+- Working across engineering, architecture, and product stakeholders.
+- Using AI to improve productivity, workflows, and decision-making.
+- Keeping things practical: less theatre, more outcomes.
+
+## 🛠 Tech Stack
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+## 📌 Current Focus
+
+- AI-enabled internal tools
+- Automation and workflow design
+- LLMs, RAG, and agentic patterns
+- Prototyping without production burden
+- Remote-first collaboration from Spain
+
+## 📜 Certifications
+
+- Azure Fundamentals
+- Azure Architect Design
+- Microsoft .NET Solution Architectures
+- MBA, Executive
+- Digital Transformation Program
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandocorteshierro)
+
+<!-- [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@dominio.com) -->
+
+---
+
+💼 Open to fully remote roles from Spain in AI, automation, internal tools, and platform-oriented technical roles.
